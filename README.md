@@ -1,5 +1,0 @@
-# A comprehensive comparative analysis of sequence-based deep learning models for single-cell genomics
-Deep learning (DL) methods show promising potential for single-cell data analysis, yet required tremendous efforts in building the models.To streamline the application of sequence-based DL methods in single-cell genomics, we established a two-layer CNN model as a baseline model and systematically evaluate how data characteristics, hyperparameter optimization, and advanced model architectures affect performance in sequence-to-expression and sequence-to-regulation tasks. We further explored the application of multi-task learning (MTL) frameworks for modeling cellular heterogeneity, evaluating the effectiveness of task grouping and balancing strategies, with particular focus on the prediction of rare cell types. Our comprehensive benchmark efforts provide an actionable framework and valuable insights for guiding future research endeavors and facilitating the development of the sequence-based DL models capable of superior predictive performance in single-cell genomics.
-
-## Related links
-**Processed data**: https://doi.org/10.6084/m9.figshare.33069326
