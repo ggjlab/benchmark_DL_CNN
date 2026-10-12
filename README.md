@@ -3,3 +3,4 @@ Deep learning (DL) methods show promising potential for single-cell data analysi
 
 # Related links
 ### Processed data: https://doi.org/10.6084/m9.figshare.33069326
+### Manuscript: https://onlinelibrary.wiley.com/doi/10.1111/cpr.70274
